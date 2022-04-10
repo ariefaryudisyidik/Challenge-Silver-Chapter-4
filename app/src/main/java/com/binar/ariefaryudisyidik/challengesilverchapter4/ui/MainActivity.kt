@@ -1,7 +1,8 @@
-package com.binar.ariefaryudisyidik.challengesilverchapter4
+package com.binar.ariefaryudisyidik.challengesilverchapter4.ui
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import com.binar.ariefaryudisyidik.challengesilverchapter4.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
